@@ -1,0 +1,94 @@
+<html>
+<head>
+    <body><title>Tag Based CSS</title>
+        <style type="text/css">
+            h1{
+                font-size:15px;
+                color:red;
+            }        
+        </style>
+    </head>
+    <body>
+        <h1>web design courses</h1>
+    </body>
+</html>
+
+
+<html>
+<head>
+    <body><title>Tag Based CSS</title>
+        <style type="text/css">
+            h2{
+                font-size:30px;
+                color:white;
+                background:green;
+                font-family:forte ;
+            }        
+        </style>
+    </head>
+    <body>
+        <h2>web design courses</h2>
+    </body>
+</html>
+
+<html>
+<head>
+    <body><title>Tag Based CSS</title>
+        <style type="text/css">
+            h3{
+                font-size: 45px;
+                text-align: center;
+            }        
+        </style>
+    </head>
+    <body>
+        <h3>web design courses</h3>
+    </body>
+</html>
+
+
+<html>
+<head>
+    <body><title>Tag Based CSS</title>
+        <style type="text/css">
+            h4{
+                font-size: 60px;
+                word-spacing: 250px;
+            }        
+        </style>
+    </head>
+    <body>
+        <h4>web design courses</h4>
+    </body>
+</html>
+
+<html>
+<head>
+    <body><title>Tag Based CSS</title>
+        <style type="text/css">
+            h5{
+                font-size:75px;
+                letter-spacing:30px;
+            }        
+        </style>
+    </head>
+    <body>
+        <h5>web design courses</h5>
+    </body>
+</html>
+
+<html>
+<head>
+    <body><title>Tag Based CSS</title>
+        <style type="text/css">
+            h6{
+                font-size:90px;
+                text-transform:uppercase;
+                text-align:right;
+            }        
+        </style>
+    </head>
+    <body>
+        <h6>web design courses</h6>
+    </body>
+</html>
